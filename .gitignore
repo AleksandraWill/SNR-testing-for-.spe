@@ -1,0 +1,23 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Distribution / build artifacts
+dist/
+build/
+*.egg-info/
+
+# PyInstaller spec file
+*.spec
+
+# Distribution binaries
+dist/*.zip
+dist/*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
