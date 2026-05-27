@@ -71,7 +71,7 @@ Once individual positions (pos1, pos2, etc.) are processed for your configuratio
 This software was developed as part of the following Master's Thesis:
 
 **Title:** *AUTOMATED COMPUTATIONAL CHARACTERIZATION OF ABERRATIONS IN FLUORESCENCE MICROSCOPY: A COMPARATIVE ANALYSIS*  
-**Author:** Aleksandra Will  
+**Author:** Aleksandra Wilga
 **Institution:** IMC Hochschule für Angewandte Wissenschaften Krems (University of Applied Sciences)  
 **Submitted:** 15.03.2026
 
